@@ -1356,7 +1356,7 @@ console.log(otype)
       'status': status2,
       't_amount': t_amount,
       // 'icode': icode,
-      'task': task,
+      'task': 0,
 
 
 
@@ -1570,5 +1570,6 @@ function validate347() {
 
 
 }
+
 
 
